@@ -142,7 +142,7 @@ During implementation, several issues required troubleshooting and root-cause an
 
 The complete project report is available here:
 
-📄 **[Splunk SIEM Deployment and Endpoint Telemetry Analysis](report/Splunk SIEM Deployment and Endpoint Telemetry Analysis.pdf)**
+📄 **[Splunk SIEM Deployment and Endpoint Telemetry Analysis](report/Splunk_SIEM_Deployment_and_Endpoint_Telemetry_Analysis.pdf)**
 
 ---
 
